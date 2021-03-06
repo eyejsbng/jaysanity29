@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaysanity29
+- 👋 Hi, I’m Ian Jay
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 
